@@ -1,0 +1,1 @@
+Developed as a capstone project for EPFL Extension School, Swiss Charge provides visuals to gain insights into the current infrastructure for electric vehicle charging across Switzerland. Developed as a Shiny app, Swiss Charge allows people to interact with the data and gain insights to the questions most applicable to their situation.

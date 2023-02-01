@@ -1,0 +1,33 @@
+Package: capstoneProject
+Title: SWISS_CHARGE
+Version: 0.0.0.9000
+Authors@R: person('VERNE', 'WARD', email = 'swisschargeapp@gmail.com', role = c('cre', 'aut'))
+Description: Interactive data visualization of electronic charging stations across Switzerland.
+License: What license is it under?
+Imports: 
+    bslib,
+    config,
+    dplyr,
+    DT,
+    geofacet,
+    ggplot2,
+    golem,
+    gt,
+    gtExtras,
+    httr,
+    leaflet,
+    magrittr,
+    shiny,
+    thinkr,
+    tibble,
+    tidyr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
+Suggests: 
+    spelling,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Language: en-US
+Depends: 
+    R (>= 2.10)
