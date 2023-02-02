@@ -1,4 +1,4 @@
-Package: capstoneProject
+Package: swisscharge
 Title: SWISS_CHARGE
 Version: 0.0.0.9000
 Authors@R: person('VERNE', 'WARD', email = 'swisschargeapp@gmail.com', role = c('cre', 'aut'))
@@ -31,3 +31,5 @@ Config/testthat/edition: 3
 Language: en-US
 Depends: 
     R (>= 2.10)
+URL: https://github.com/verne4/swisscharge
+BugReports: https://github.com/verne4/swisscharge/issues
