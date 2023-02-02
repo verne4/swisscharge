@@ -17,6 +17,7 @@ Imports:
     httr,
     leaflet,
     magrittr,
+    pkgload,
     shiny,
     thinkr,
     tibble,
